@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/3cb4fc50-2fdf-4b1b-b264-6b6f95a9c259
+View app: https://streamlit-ai-document-analyzer-121394515653.asia-southeast1.run.app/ 
 
 ## Run Locally
 
